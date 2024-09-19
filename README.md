@@ -3,3 +3,6 @@ Improve the workflow of various instructor tasks for codeninjas. Shows a pop-up 
 
 Link to Google Extension:
 https://chromewebstore.google.com/detail/cnhh-extension/hkolkhhlchbbjpdhjehgagfflnhkochm
+
+Password:
+1680
